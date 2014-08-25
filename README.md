@@ -1,13 +1,13 @@
-# 18F Open Source Policy
+# NIEM Open Source Policy
 
-This repository contains the official [Open Source Policy](policy.md) of [18F](https://18f.gsa.gov/) (a digital delivery team within the [General Services Administration](http://gsa.gov)).
+This repository contains the official [Open Source Policy](policy.md) of the [National Information Exchange Model (NIEM)](https://niem.gov/) Program. The use of this respository does not constitute endorsement, certification, recommendation, or preferential treatment by NIEM. The views and opinions of authors expressed herein do not necessarily reflect those of NIEM, and agreement with those views may not be implied in advertising.
 
-**[Read 18F's Open Source Policy.](policy.md)**
+**[Read NIEM's Open Source Policy.](policy.md)**
 
 
 ### Credits
 
-This policy was originally forked from the [Consumer Financial Protection Bureau's policy](https://github.com/cfpb/source-code-policy). Thanks also to [@benbalter](https://github.com/benbalter) for his [insights regarding CFPB's intial policy](http://ben.balter.com/2012/04/10/whats-missing-from-cfpbs-awesome-new-source-code-policy/).
+This policy was originally forked from the [Government Services Agency (GSA) 18F’s policy] (https://github.com/18F/open-source-policy), which was forked from the [Consumer Financial Protection Bureau's policy](https://github.com/cfpb/source-code-policy). Thanks to everyone who paved the way for us.
 
 
 ### Public domain

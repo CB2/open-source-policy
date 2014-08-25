@@ -28,31 +28,31 @@ Using FOSS allows for product customization, advances interoperability between t
 
 ## Maximizing Community Involvement and Reuse
 
-Active involvement from the open source community is integral to the success of open source code. 18F will be an active contributor to FOSS projects that it or its clients utilize, whether they are maintained or operated by 18F.
+Active involvement from the open source community is integral to the success of open source code. NIEM will be an active contributor to FOSS projects that it or its stakeholders utilize, whether they are maintained or operated by NIEM.
 
-Code written entirely by 18F staff will be dedicated to the public domain. In addition, any contracts 18F enters into, where others will develop software on 18F's behalf, will ensure that all results are dedicated to the public domain. In general, all discussion in this document about the licensing of work of 18F's contractors means that 18F will ensure that their contracts guarantee those terms.
+Code written entirely by NIEM staff will be dedicated to the public domain. In addition, any contracts or grants NIEM enters into, where others will develop software on NIEM’s behalf, will ensure that all results are dedicated to the public domain. In general, all discussion in this document about the licensing of work of NIEM’s contractors or grantees means that NIEM will ensure that their contracts or grants guarantee those terms.
 
-18F encourages contributions to its open source projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction.
+NIEM encourages contributions to its open source projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction.
 
-Forks or clones of our code repositories are free to be re-distributed. This means code created by 18F can be integrated into work that is under a more restrictive license, even those that are not considered open source licenses.
+Forks or clones of our code repositories are free to be re-distributed. This means code created by NIEM can be integrated into work that is under a more restrictive license, even those that are not considered open source licenses.
 
-This changes when our code repositories include code that was not created by 18F and carries an open license. Code previously released under an open source license and then modified by 18F or its contractors is considered a ["joint work"] [4] and must be released under terms permitted by the original open source license.
+This changes when our code repositories include code that was not created by NIEM and carries an open license. Code previously released under an open source license and then modified by NIEM or its contractors is considered a ["joint work"] [4] and must be released under the terms of the original open source license. 
 
   [4]: http://www.copyright.gov/title17/92chap1.html#101 "Joint Work"
 
-The public can use our code as the basis of wholly proprietary and commercial systems. 18F would appreciate that users of our code disclose its lineage, but 18F maintains no legal right to require disclosure. Notifications that our work is used in a new system are always greatly appreciated.
+The public can use our code as the basis of wholly proprietary and commercial systems. NIEM would appreciate that users of our code disclose its lineage, but NIEM maintains no legal right to require disclosure. Notifications that our work is used in a new system are always greatly appreciated.
 
 ## Open Source Licenses
 
-As previously mentioned, most work generated at 18F falls within the U.S. public domain.
+As previously mentioned, most work generated at NIEM falls within the U.S. public domain.
 
-For our international colleagues, 18F also permanently waives all copyright and related rights worldwide to code created by 18F or its contractors.
+For our international colleagues, NIEM also permanently waives all copyright and related rights worldwide to code created by NIEM or its contractors and grantees.
 
 Our [default LICENSE file](LICENSE.md) for projects acknowledges that our work is in the US public domain, and uses [CC0](https://creativecommons.org/publicdomain/zero/1.0/) to waive copyright internationally.
 
 Our [default CONTRIBUTING file](CONTRIBUTING.md) informs contributors that their contributions will be licensed under the same terms.
 
-However, certain projects will require the usage of licensed open source software not created by 18F. Some open source licenses make source code available under different terms and conditions. These terms and conditions specify how the code may be used, modified, or shared. When users modify 18F code, they should review and understand the terms of the open source license in question.
+However, certain projects will require the usage of licensed open source software not created by NIEM. Some open source licenses make source code available under different terms and conditions. These terms and conditions specify how the code may be used, modified, or shared. When users modify NIEM code, they should review and understand the terms of the open source license in question.
 
 Each project may need to modify or extend the above LICENSE and CONTRIBUTING files as needed for its own circumstances.
 
@@ -60,7 +60,7 @@ Each project may need to modify or extend the above LICENSE and CONTRIBUTING fil
 
 There is a misconception that FOSS that is distributed to the public should not be integrated or modified for use in sensitive systems. On the contrary, FOSS is often preferred for use in sensitive systems, due in part to its increased auditability. In other words, security in FOSS must be designed never to rely on obscurity in how the code works.
 
-In addition, while open source licenses permit the user to modify OSS for internal use without obligating them to distribute source code to the public, when the user chooses to distribute the modified OSS outside the user's organization, then the code is subject to whatever license it carries.
+In addition, many open source licenses permit the user to modify open source software for internal use without obligating them to distribute source code to the public. However, if the user chooses to distribute the modified open source software outside the user's organization, then it is subject to whatever license it carries.
 
 ## Exceptions
 
@@ -70,14 +70,16 @@ The only conditions where code shall not be released or developed in the open ar
 
 * The public release of the item is restricted by other law or regulation, such as the Export Administration Regulations or the International Traffic in Arms Regulation.
 
-These decisions will be made as needed by the 18F DevOps team, which will lead an interdisciplinary team to review the conditions under which code will not be made available publicly. Any further exemptions will be rare, documented publicly, and the result of compelling interest.
+These decisions will be made as needed by the NIEM Program Management Office, with input from the NIEM Technical Architectrure Committee and NIEM Business Architecture Committee, as needed. Any further exemptions will be rare, documented publicly, and the result of compelling interest.
 
-If an existing solution cannot be found in the open source community, 18F may consider other options, including creating an open source solution itself. Ultimately, the software that best meets the needs and mission of 18F should be used.
+If an existing solution cannot be found in the open source community, NIEM may consider other options, including creating an open source solution itself. Ultimately, the software that best meets the needs and mission of NIEM should be used.
 
 ## Thanks
 
-18F would like to thank the Consumer Financial Protection Bureau, Department of Defense, and Office of Management and Budget for their work in blazing the path for the use of FOSS in the Federal Government.
+NIEM would like to thank YOU for supporting us and the possibilities that exist for this community.
+
+For the NIEM newbies, welcome.  You have just joined a great community that spans all levels of government  and the private sector, working on some of the most important issues in society today. 
 
 ## Future Changes
 
-This policy is a living document. 18F expects to make changes to this policy in the future, and we welcome [issues](https://github.com/18f/open-source-policy/issues) and pull requests. To contact us privately, email <a href="mailto:18F@gsa.gov">18F@gsa.gov</a>.
+This policy is a living document. NIEM expects to make changes to this policy in the future, and we welcome [issues](https://github.com/18f/open-source-policy/issues) and pull requests. To contact us privately, email <a href="mailto:information@niem.gov">information@niem.gov</a>.

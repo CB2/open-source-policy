@@ -1,4 +1,4 @@
-# NIEM Open Source Policy
+# WORKING DRAFT - NOT AUTHORITATIVE # NIEM Open Source Policy
 
 This repository contains the official [Open Source Policy](policy.md) of the [National Information Exchange Model (NIEM)](https://niem.gov/) Program. The use of this respository does not constitute endorsement, certification, recommendation, or preferential treatment by NIEM. The views and opinions of authors expressed herein do not necessarily reflect those of NIEM, and agreement with those views may not be implied in advertising.
 
